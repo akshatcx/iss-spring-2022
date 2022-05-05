@@ -32,19 +32,10 @@ Line No: 5 - Count of words: 3
 - **e2:** Can be in any order. the values are as follows: 
 ```
 this: 3
-is: 1
 not: 3
 a: 3
-even: 1
 ipsum: 3
-definitely: 1
-file: 1
-run: 1
-k: 1
 lorem: 3
-the: 1
-.: 1
-,: 1
 ```
 
 (`.` and `,` can be skipped without any penalty) (3 marks)
