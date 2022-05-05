@@ -28,7 +28,7 @@ Line No: 5 - Count of words: 3
 
 ## e
 - **Format:** 1 mark
-- **e1:** Should give an error message or no output
+- **e1:** Should give an error message or no output (1 mark)
 - **e2:** Can be in any order. the values are as follows: 
 ```
 this: 3
@@ -47,4 +47,4 @@ the: 1
 ,: 1
 ```
 
-(`.` and `,` can be skipped without any penalty)
+(`.` and `,` can be skipped without any penalty) (3 marks)
